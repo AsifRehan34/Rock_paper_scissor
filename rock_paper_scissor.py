@@ -1,4 +1,4 @@
-#import random
+import random
 # create a list of options
 Guess_list=['rock','paper','scissor']
 # use while=true to loop through the process until player type quite
