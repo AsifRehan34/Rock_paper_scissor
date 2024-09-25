@@ -1,4 +1,4 @@
-import random
+#import random
 
 guess= input("guess a number")
 randomnumber = random.randint(1, 5)
